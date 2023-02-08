@@ -3,14 +3,14 @@ A simple chess clock app I challenged myself to build in 12 hours.
 
 <!-- TABLE OF CONTENTS -->
 <div id="top"></div>
-<details>
+<!-- <details> -->
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#overview">Overview</a></li>
     <li><a href="#builtwith">Built With</a></li>
     <li><a href="#design">Design</a></li>
   </ol>
-</details>
+<!-- </details> -->
 
 <!-- Overview -->
 <div id="overview">
