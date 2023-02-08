@@ -14,11 +14,12 @@ A simple chess clock app I challenged myself to build in 12 hours.
 
 <!-- Overview -->
 <div id="overview">
+
 ## Overview
-#### Configure Page
+### Configure Page
 Select time control from preset bullet, blitz, and rapid categories, as well as, a custom time option. Change settings such as color theme and sound.
 
-####Clock
+### Clock
 Take turns pressing the screen to change the turn. Return to configure page by pressing left middle button; pause game and toggle sound from the settings button. Move counters are shown in the corners.
 
 </div>
