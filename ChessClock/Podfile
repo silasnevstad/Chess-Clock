@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ChessClock' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ChessClock
+  pod "LiquidFloatingActionButton"
+
+  target 'ChessClockTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod "LiquidFloatingActionButton", :path => "../"    
+  end
+
+  target 'ChessClockUITests' do
+    # Pods for testing
+    pod "LiquidFloatingActionButton", :path => "../"
+  end
+
+end
