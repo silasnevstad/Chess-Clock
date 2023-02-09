@@ -40,8 +40,7 @@ Take turns pressing the screen to change the turn. Return to configure page by p
 Minimalistic design, with default olor scheme taken from chess.com.
 
 ![](https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClock.gif)
-![](https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClockWelcomePage.png | width=100)
-<img src="https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClockWelcomePage.png" width=100>
+<img src="https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClockWelcomePage.png" width=200>
 
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
