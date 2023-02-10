@@ -41,6 +41,8 @@ Minimalistic design, with default olor scheme taken from chess.com.
 
 ![](https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClock.gif)
 <img src="https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClockWelcomePage.png" width=200>
+<img src="https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClockClockPageRed.png" width=200>
+<img src="https://github.com/silasnevstad/Chess-Clock/blob/main/demos/chessClockWelcomePageBlack.png" width=200>
 
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
